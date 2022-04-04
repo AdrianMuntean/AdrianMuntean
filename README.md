@@ -2,7 +2,8 @@
 I am a fullstack software engineer from Romania.
 
 - 🔭 Working on a full stack app with React and NodeJS
-- 🌱 Love learning new stuff and gaining skills 
+- 🌱 Love learning new stuff and gaining skills
+- 🐙 [My story](https://www.offerzen.com/blog/switching-the-backend-for-the-frontend-why-i-left-java-for-javascript) 
 
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/adrian-muntean-76b103bb/)
